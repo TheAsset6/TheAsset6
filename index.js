@@ -19,6 +19,18 @@ let DATA = {
     timeZone: 'America/New_York',
   }),
 };
+
+async function setWeatherInformation() {
+  await fetch(
+    `https://api.openweathermap.org/data/2.5/weather?lat=34.2257&lon=-77.9447&APPID=e758a5fa528d64c798ce438783085a28`
+  )
+    .then(r => r.json())
+    .then(r => {
+      DATA.temperature = Math.round(r.main.temp);
+      DATA.weather = r.weather[0].description;
+    });
+}
+
 /**
   * A - We open 'main.mustache'
   * B - We ask Mustache to render our file with the data
@@ -31,4 +43,10 @@ function generateReadMe() {
     fs.writeFileSync('README.md', output);
   });
 }
+
+async function action() {
+  await setWeatherInformation();   
+  await generateReadMe();
+}
+
 generateReadMe();
