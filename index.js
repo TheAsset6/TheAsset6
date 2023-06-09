@@ -22,7 +22,7 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?lat=34.2257&lon=-77.9447&APPID=e758a5fa528d64c798ce438783085a28`
+    `https://api.openweathermap.org/data/2.5/weather?lat=34.2257&lon=-77.9447&APPID=e758a5fa528d64c798ce438783085a28&units=imperial`
   )
     .then(r => r.json())
     .then(r => {
