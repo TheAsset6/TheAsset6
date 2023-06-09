@@ -1,8 +1,6 @@
 ## Peace, my name is Karl, a force multiplying TPM living in the Coastal NC area.
 
-The current weather is  and the temperature is   .
-
-## Investor |Technical Program Manager | Strategist | Delivering Software and Projects to High Standards | INTP |
+### Investor |Technical Program Manager | Strategist | Delivering Software and Projects to High Standards | INTP |
 
 - 💡 I’m currently learning everything 🤣
 - 🏋🏾‍♂️ 2023 Goals: Rebuild my Github account & Learn more about web3
@@ -39,4 +37,4 @@ CURRENTLY CHANGING HOSTS
 [website]: https://lovgrowth.com
 [linkedin]: https://www.linkedin.com/in/jacksonk1asset/
 
-Last refresh at Friday, June 9, 12:50 PM EDT.
+Last refresh at Friday, June 9, 1:05 PM EDT.
