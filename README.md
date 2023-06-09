@@ -1,6 +1,6 @@
 # Peace, my name is Karl, a force multiplying TPM living in the Coastal NC area.
 
-The current weather is  and the temperature is  Karl.
+The current weather is  and the temperature is  .
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -48,4 +48,4 @@ CURRENTLY CHANGING HOSTS
 [website]: https://lovgrowth.com
 [linkedin]: https://www.linkedin.com/in/jacksonk1asset/
 
-Last refresh at Friday, June 9, 10:19 AM EDT.
+Last refresh at Friday, June 9, 10:21 AM EDT.
